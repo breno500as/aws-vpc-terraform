@@ -1,3 +1,4 @@
-.terraform
-.terraform.lock.hcl
-plan.out
+.terraform*
+*.out
+*.tfvars
+*.tfstate*
